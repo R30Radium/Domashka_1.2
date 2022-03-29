@@ -10,7 +10,7 @@ public class Main {
         float e = 3.3f;
         double f = 3.1_415_926_535_697_932_384;
         char bar = 82;
-        boolean r = 30 > 0;
+        boolean r = -30 > 0;
 
         //задание 2
         var firstFighterWeight = 78.2;
